@@ -5,7 +5,7 @@ function App() {
   return (
     <>
        <div className='text-2xl font-bold'>
-        hello!!
+        Welcome to escape room!!
        </div>
     </>
   )
